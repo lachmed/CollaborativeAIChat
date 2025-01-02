@@ -6,4 +6,4 @@ Ai chatbot from google generative ai api
 graphics from freepik.com
 
 Video demonstration:
-[![See How It Works](https://img.youtube.com/vi/v=R_jOibvXPZc/0.jpg)](https://www.youtube.com/watch?v=R_jOibvXPZc)
+[![See How It Works](https://img.youtube.com/vi/R_jOibvXPZc/0.jpg)](https://www.youtube.com/watch?v=R_jOibvXPZc)
